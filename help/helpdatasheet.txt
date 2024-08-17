@@ -1,0 +1,12 @@
+﻿available  commands:
+help - show all commands
+start - open new command line
+show network - command show network settings
+show user - command show current user
+show OS - command show current OS
+CL - clear window
+game - run game
+exit - close window
+
+ctr+q - close window
+ctr+g - run game
